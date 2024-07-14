@@ -1,4 +1,4 @@
-# GorbunovaT_10jul2024
+# GorbunovaT_11may1984
 Финальное тестовое задание курса
 
 Ветка API. Коллекция Postman, которая проводит смоук-тест корзины https://altaivita.ru/
